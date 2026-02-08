@@ -273,4 +273,13 @@ If you like this project, please consider:
 
 **Thank you for your support!** 🙏
 
+⭐
+<img width="407" height="942" alt="Ekran görüntüsü 2026-02-08 213057" src="https://github.com/user-attachments/assets/2d54139b-9b9c-4640-b852-6064cb02d972" />
+<img width="413" height="945" alt="Ekran görüntüsü 2026-02-08 213045" src="https://github.com/user-attachments/assets/1f519239-9ee7-42b6-9fd9-d58a3ee37795" />
+
+⭐
+
+<img width="407" height="884" alt="Ekran görüntüsü 2026-02-08 213147" src="https://github.com/user-attachments/assets/f08d982a-3572-4dbf-867a-c6d080f347b9" />
+<img width="399" height="872" alt="Ekran görüntüsü 2026-02-08 213132" src="https://github.com/user-attachments/assets/3d7d31e6-b118-4429-aab7-0adeaabf30b9" />
+
 </div>
