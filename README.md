@@ -274,6 +274,7 @@ If you like this project, please consider:
 **Thank you for your support!** 🙏
 
 ⭐
+
 <img width="407" height="942" alt="Ekran görüntüsü 2026-02-08 213057" src="https://github.com/user-attachments/assets/2d54139b-9b9c-4640-b852-6064cb02d972" />
 <img width="413" height="945" alt="Ekran görüntüsü 2026-02-08 213045" src="https://github.com/user-attachments/assets/1f519239-9ee7-42b6-9fd9-d58a3ee37795" />
 
