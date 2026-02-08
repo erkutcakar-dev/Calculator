@@ -211,15 +211,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Light Theme 🌞
 <!-- Placeholder for screenshot 1 - Light Theme -->
-![Light Theme Screenshot 1](screenshots/light-theme-1.png)
+<img width="407" height="942" alt="Ekran görüntüsü 2026-02-08 213057" src="https://github.com/user-attachments/assets/95673449-d5a3-4b14-8348-55598f5cfaf8" />
+<img width="413" height="945" alt="Ekran görüntüsü 2026-02-08 213045" src="https://github.com/user-attachments/assets/00b5f8c4-feb7-4cec-945a-6860bba09aa2" />
 
-![Light Theme Screenshot 2](screenshots/light-theme-2.png)
+
 
 ### Dark Theme 🌙
 <!-- Placeholder for screenshot 3 - Dark Theme -->
-![Dark Theme Screenshot 1](screenshots/dark-theme-1.png)
+<img width="407" height="884" alt="Ekran görüntüsü 2026-02-08 213147" src="https://github.com/user-attachments/assets/22c04b3b-fc05-4270-8bca-ddb2d1264b1f" />
+<img width="399" height="872" alt="Ekran görüntüsü 2026-02-08 213132" src="https://github.com/user-attachments/assets/abe9ac11-7cf7-4e4d-825a-e90e1eded9b6" />
 
-![Dark Theme Screenshot 2](screenshots/dark-theme-2.png)
 
 ---
 
@@ -273,14 +274,8 @@ If you like this project, please consider:
 
 **Thank you for your support!** 🙏
 
-⭐
+⭐⭐
 
-<img width="407" height="942" alt="Ekran görüntüsü 2026-02-08 213057" src="https://github.com/user-attachments/assets/2d54139b-9b9c-4640-b852-6064cb02d972" />
-<img width="413" height="945" alt="Ekran görüntüsü 2026-02-08 213045" src="https://github.com/user-attachments/assets/1f519239-9ee7-42b6-9fd9-d58a3ee37795" />
 
-⭐
-
-<img width="407" height="884" alt="Ekran görüntüsü 2026-02-08 213147" src="https://github.com/user-attachments/assets/f08d982a-3572-4dbf-867a-c6d080f347b9" />
-<img width="399" height="872" alt="Ekran görüntüsü 2026-02-08 213132" src="https://github.com/user-attachments/assets/3d7d31e6-b118-4429-aab7-0adeaabf30b9" />
 
 </div>
